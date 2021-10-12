@@ -25,7 +25,7 @@ Teen Queent, EURON, Ewha Womans University AI & Data Science
 |01|9/7-9/14| GAN Overview | [Lecture by Yunjey Choi](https://www.youtube.com/watch?v=odpjk7_tGY0&t=2739s) | ✅ |
 |02|9/14-9/21 | GAN | [Generative Adversarial Nets](https://papers.nips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1a-Paper.pdf) | ✅ |
 |03|9/21-9/28| CGAN | [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784), Nov 2014 | ✅ |
-|04|9/28-10/5| DCGAN | [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434), 2015 |
+|04|9/28-10/5| DCGAN | [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434), 2015 | ✅|
 |05|10/5-10/12| ACGAN | [Conditional Image Synthesis With Auxiliary Classifier GANs](https://arxiv.org/abs/1610.09585), Oct 2016 |
 |06|9/28-10/5 | LSGAN | [Least Squares Generative Adversarial Networks](https://arxiv.org/abs/1611.04076), Nov 2016 | 
 |07|10/5-10/12 | WGAN | [Wasserstein GAN](https://arxiv.org/abs/1701.07875), Jan 2017 |
